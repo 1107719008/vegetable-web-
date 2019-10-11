@@ -1,0 +1,265 @@
+.vegetables{
+    width: 271px;
+    height: 62px;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    margin: 36px 0 5px 160px;
+  }
+.icon{
+  display: flex;
+  flex-direction: row;
+  
+}
+.botton{
+  margin-top: 45px;
+}
+.fbimg{
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+    margin-left: 460px;
+    
+    
+}
+.igimg{
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+    margin-left: 10px;
+    
+}
+.l-line{
+    width: 1px;
+    height: 25px;
+    background-color: #778a50;
+    margin-top: 46px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+
+
+}
+.login{
+    width: 46px;
+  height: 15px;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.57;
+  letter-spacing: normal;
+  text-align: left;
+  color: #778a50;
+  margin-left: 10px;
+  
+  margin-top: -5px;
+}
+.l-botton{
+    width: 60px;
+    height: 25px;
+    border: solid 1px #778a50;
+    margin-left: 10px;
+    margin-top: 46px;
+    border-radius: 3px;
+}
+.join{
+    width: 35px;
+  height: 15px;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.57;
+  letter-spacing: normal;
+  text-align: left;
+  color: #778a50;
+  margin-left: 10px;
+  margin-top:-5px;
+  margin-right: 160px;
+  padding-right: 0px;
+  
+}
+.j-botton{
+    width: 49px;
+  height: 25px;
+  border: solid 1px #778a50;
+ 
+margin-left: 10px;
+  margin-top: 46px;
+  border-radius: 3px;
+  
+}
+
+  ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li {
+  font-family: Arial;
+  float: left;
+  display: block;
+  color: #edf2c5;
+  text-align: center;
+  margin: 10px 30px 11px 30px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 900;
+}
+.img_main_pumpkin{
+  width: 940px;
+  height: 448px;
+  object-fit: contain;
+  margin-left:160px;
+
+}
+.middle{
+  display:flex;
+  flex-direction: row;
+  margin-top: 5px;
+  margin-left: 160px;
+}
+.vegbox{
+  width: 444px;
+  height: 45px;
+  border-radius: 3px;
+  background-color: #778a50;
+  
+  
+}
+
+.veg{
+  width: 98px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+  margin-left: 30px;
+ 
+}
+.cbox{
+  width: 444px;
+  height: 45px;
+  border-radius: 3px;
+  background-color: #778a50;
+  margin: 0 0 0 52px;
+}
+.Contact{
+  width: 69px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+  margin: 10px 345px 12px 30px;
+}
+
+
+
+.contact_text{
+  width: 444px;
+  height: 140px;
+  background-color: #f7fbda;
+  margin-left: 52px;
+  
+}
+.c_one{
+  width: 414px;
+  height: 44px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+  margin:15px;
+}
+.line{
+  width: 414px;
+  height: 1px;
+  background-color: #7d7d7d;
+  margin-left: 15px;
+}
+.c_two{
+  width: 197px;
+  height: 35px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+  margin:15px;
+}
+.picc{
+display:flex;
+flex-direction: row;
+margin-top: 15px;
+}
+.threeimg{
+  margin-left: 160px;
+}
+.cimg{
+  padding-left:8.5px;
+  
+}
+.rimg{
+  padding-left:8.5px;
+  
+}
+
+body{
+background-color:#edf2c5;
+}
+
+.nav_box {
+  width: 940px;
+  height: 44px;
+  border-radius: 3px;
+  background-color: #778a50;
+  margin:5px 160px;
+}
+.box_footer {
+  width: 1260px;
+  height: 60px;
+  background-color: #778a50;
+  
+}
+footer{
+  width: 301px;
+  height: 14px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+  padding:0 480px;
+  margin-top: 35px;
+}
